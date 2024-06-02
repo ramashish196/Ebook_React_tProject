@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Courier New", Courier, monospace;
+}
+.swiper-slide-shadow {
+  background: transparent;
+}
